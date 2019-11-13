@@ -1,0 +1,25 @@
+
+  body{
+    background: goldenrod;
+    
+  }
+  .navbar {
+    opacity: .5;
+    border-bottom: 5px solid firebrick;
+  }
+  .ourimage{
+  background: url(../codeLast/images/Flatiron-School.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 700px;
+  }
+  
+  .overlay{
+    background: rgba(0,0,0,.4)
+  }
+
+  .bg-primary {
+    background-color: whitesmoke !important;
+  }
+
+
